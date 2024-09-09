@@ -17,13 +17,9 @@ $ cryptoC
 
 ###  example :
 
-> ![Screenshot_2024-09-09_09-38-13](https://github.com/user-attachments/assets/6e40cfb7-b936-4991-aa6f-a9b688ff47e3)
+> ![Screenshot_2024-09-09_09-59-46](https://github.com/user-attachments/assets/d8fab0c3-0279-4711-a63d-4ac500b8211b)
 
 
-# -------------------
 
-###  example :
-
-> ![Screenshot_2024-06-28_07_46_22](https://github.com/user-attachments/assets/ebcae697-de64-4338-af37-c006d7efda5a)
    
 
